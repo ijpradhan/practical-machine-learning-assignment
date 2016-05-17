@@ -1,6 +1,6 @@
 Practical Machine Learning - Prediction Assignment Writeup
 ========================================================
-       Akash Bijay Dangol  May 10, 2016
+       Iraj Pradhan  May 10, 2016
 
 
 This document describe the analysis done for the prediction assignment of the practical machine learning course.
